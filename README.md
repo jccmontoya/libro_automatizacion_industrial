@@ -4,7 +4,7 @@ Este repositorio contiene los ficheros fuente con las soluciones de los ejercici
 
 # Autores
 
-Estos problemas han sido propuestos y resueltos por [José Carlos Castillo](https://github.com/jccmontoya), João Valente y Mª Dolores Blanco, profesores del departamento de ingeniería de sistemas y automática de la Universidad Carlos III de Madrid.
+Estos problemas han sido propuestos y resueltos por [José Carlos Castillo](https://github.com/jccmontoya), João Valente y Mª Dolores Blanco, profesores del Departamento de Ingeniería de Sistemas y Automática de la Universidad Carlos III de Madrid.
 
 
 # Licencia
